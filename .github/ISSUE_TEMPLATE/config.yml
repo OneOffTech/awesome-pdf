@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discuss about the categorisation
+    url: https://github.com/OneOffTech/awesome-pdf/discussions/new?category=categories
+    about: 'Suggest ideas for new categories or ways to make categories easier to understand.'
+  - name: Discuss about anything else
+    url: https://github.com/OneOffTech/awesome-pdf/discussions/new
+    about: 'Other suggestions or anything else you would like to share.'
