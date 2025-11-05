@@ -74,3 +74,8 @@ From parsers for extracting text, images, and tables, to automated PDF creation 
 - [gipplab/pdf-benchmark](https://github.com/gipplab/pdf-benchmark) - A Benchmark of PDF Information Extraction Tools using a Multi-Task and Multi-Domain Evaluation Framework for Academic Documents.
 - [DocBank Dataset](https://github.com/doc-analysis/DocBank) - DocBank is a new large-scale dataset that is constructed using a weak supervision approach. It enables models to integrate both the textual and layout information for downstream tasks. The current DocBank dataset totally includes 500K document pages, where 400K for training, 50K for validation and 50K for testing.
 
+## Contributing
+
+A community-driven list is, at its core, driven by contributions. If you stumble upon a great service or library, or find mistakes, please get involved by starting a discussion or suggesting a change via a pull request.
+
+Please see [Contributing](./contributing.md) for details.
