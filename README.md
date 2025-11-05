@@ -12,7 +12,7 @@ From parsers for extracting text, images, and tables, to automated PDF creation 
 - [Parsers, OCR and extraction](#parsers-ocr-and-extraction) - If you need to extract something from PDFs look here.
 - [Creation and production](#creation-and-production) - Need to produce PDF, here some of the cool libraries and services
 - [Readers and viewers](#readers-and-viewers) - Need to show PDF in your app or site, maybe here you can find something.
-- [Accessibility](#accessibility) - Accessibility and long term conservation is a hot topic, give it a look!
+- [Accessibility](#accessibility) - Ensuring accessibility and long term conservation is a hot topic, give it a look!
 - [Datasets](#datasets) - Entering the machine learning and artificial intelligence dimension. Maybe here you can find a dataset to train your new shiny model!
 
 ## Contributing
@@ -41,7 +41,7 @@ Please see [Contributing](.github/CONTRIBUTING.md) for details.
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction.
 - [smalot/pdfparser](https://github.com/smalot/pdfparser) - A standalone PHP library, provides various tools to extract data from a PDF file.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
-- [PyMuPDF4LLM](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/) - PyMuPDF4LLM is aimed to make it easier to extract PDF content in the format you need for LLM & RAG environments. It supports Markdown extraction as well as LlamaIndex document output.
+- [PyMuPDF4LLM](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/) - Aimed to make it easier to extract PDF content in the format you need for LLM & RAG environments. It supports Markdown extraction as well as LlamaIndex document output.
 - [CatchTheTornado/pdf-extract-api](https://github.com/CatchTheTornado/pdf-extract-api) - Document (PDF) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSON or Markdown.
 - [climatepolicyradar/navigator-document-parser](https://github.com/climatepolicyradar/navigator-document-parser) - Parsing PDFs and websites containing laws and policies.
 
