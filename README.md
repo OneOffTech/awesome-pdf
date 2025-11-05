@@ -17,13 +17,6 @@ From parsers for extracting text, images, and tables, to automated PDF creation 
 - [Accessibility](#accessibility) - Ensuring accessibility and long term conservation is a hot topic, give it a look!
 - [Datasets](#datasets) - Entering the machine learning and artificial intelligence dimension. Maybe here you can find a dataset to train your new shiny model!
 
-## Contributing
-
-A community-driven list is, at its core, driven by contributions. If you stumble upon a great service or library, or find mistakes, please get involved by starting a discussion or suggesting a change via a pull request.
-
-Please see [Contributing](./contributing.md) for details.
-
-
 ---
 
 ## Parsers, OCR and extraction
