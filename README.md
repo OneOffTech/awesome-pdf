@@ -21,7 +21,7 @@ From parsers for extracting text, images, and tables, to automated PDF creation 
 
 A community-driven list is, at its core, driven by contributions. If you stumble upon a great service or library, or find mistakes, please get involved by starting a discussion or suggesting a change via a pull request.
 
-Please see [Contributing](.github/CONTRIBUTING.md) for details.
+Please see [Contributing](./contributing.md) for details.
 
 
 ---
