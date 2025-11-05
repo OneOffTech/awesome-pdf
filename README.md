@@ -1,5 +1,7 @@
 # Awesome PDF [![](https://awesome.re/badge.svg)](https://awesome.re)
 
+> Curated list of PDF libraries, services and datasets.
+
 A curated community driven list of PDF (Portable Document Format) libraries, services and datasets. Both open source and commercial services are included and accepted.
 
 When working with PDF files, you sometimes come across great services, libraries, or interesting tools that you want to remember. Here is our list.
