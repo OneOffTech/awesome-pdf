@@ -43,6 +43,7 @@ From parsers for extracting text, images, and tables, to automated PDF creation 
 
 ## Creation and production
 
+- [renamed.to](https://www.renamed.to) - AI-powered tool that reads PDF content and automatically renames files with descriptive names. Supports batch processing of invoices, contracts, and receipts. Available as a web app, [CLI](https://github.com/upspawn/cli.renamed.to), and [SDK](https://github.com/renamed-to/renamed-sdk).
 - [shipsaas/docking](https://github.com/shipsaas/docking) - Shared-microservice that takes over the document templates management & render/export PDF.
 - [WeasyPrint](https://weasyprint.org/) - Generate PDF using html and CSS.
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - A content-preserving PDF document transformer.
