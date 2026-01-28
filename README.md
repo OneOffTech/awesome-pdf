@@ -53,6 +53,7 @@ From parsers for extracting text, images, and tables, to automated PDF creation 
 - [Smallpdf](https://smallpdf.com/) - Set of tools to extract and manipulate PDF content.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [Vexlio](https://vexlio.com/) - Tool to create diagrams and export in SVG or PDF.
+- [renamed.to](https://www.renamed.to) - AI-powered tool that rename files based on the content, accessible as a web app, command line, and for integration within your application.
 
 ## Readers and viewers
 
