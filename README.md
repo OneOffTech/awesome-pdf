@@ -51,6 +51,7 @@ From parsers for extracting text, images, and tables, to automated PDF creation 
 - [PdfRest](https://pdfrest.com/) - PDF Api to create, shrink and compress.
 - [Gotenberg](https://gotenberg.dev/) - A Docker-powered stateless API for creating PDF files from templates in various formats, e.g., html, markdown, word, excel.
 - [Smallpdf](https://smallpdf.com/) - Set of tools to extract and manipulate PDF content.
+- * [ToolsHub](https://www.toolshub.in.net/) - A comprehensive suite of 100% free, secure, and browser-based PDF utilities.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [Vexlio](https://vexlio.com/) - Tool to create diagrams and export in SVG or PDF.
 - [renamed.to](https://www.renamed.to) - AI-powered tool that rename files based on the content, accessible as a web app, command line, and for integration within your application.
@@ -80,3 +81,4 @@ From parsers for extracting text, images, and tables, to automated PDF creation 
 A community-driven list is, at its core, driven by contributions. If you stumble upon a great service or library, or find mistakes, please get involved by starting a discussion or suggesting a change via a pull request.
 
 Please see [Contributing](./contributing.md) for details.
+
