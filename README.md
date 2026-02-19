@@ -54,6 +54,7 @@ From parsers for extracting text, images, and tables, to automated PDF creation 
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [Vexlio](https://vexlio.com/) - Tool to create diagrams and export in SVG or PDF.
 - [renamed.to](https://www.renamed.to) - AI-powered tool that rename files based on the content, accessible as a web app, command line, and for integration within your application.
+- [MiOffice](https://mioffice.ai) - AI office suite with 66+ browser-based applications for PDF conversion, compression, merging, splitting, and document scanning. Runs entirely client-side via WebAssembly — documents never leave the device.
 
 ## Readers and viewers
 
