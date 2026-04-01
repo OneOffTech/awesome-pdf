@@ -17,7 +17,7 @@
 
 - [Parxy](https://github.com/OneOffTech/parxy) - A PDF parsers gateway to use different parsers using a unified API.
 - [Docling](https://github.com/docling-project/docling/) - Simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem.
-- [SmolDocling](https://huggingface.co/spaces/ds4sd/SmolDocling-256M-Demo) - A multimodal Image-Text-to-Text model designed for efficient document conversion. It retains Docling's most popular features while ensuring full compatibility with Docling through seamless support for DoclingDocuments.
+- [SmolDocling](https://huggingface.co/spaces/ds4sd/SmolDocling-256M-Demo) - A multimodal Image-Text-to-Text model for efficient document conversion, compatible with Docling.
 - [Filimoa/open-parse](https://github.com/Filimoa/open-parse/) - Improved file parsing for LLMs.
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages.
 - [UniModal4Reasoning/StructEqTable-Deploy](https://github.com/UniModal4Reasoning/StructEqTable-Deploy) - A High-efficiency Open-source Toolkit for Table-to-Latex Task.
@@ -25,7 +25,7 @@
 - [Reducto](https://reducto.ai/) - Document Ingestion API.
 - [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - A platform that ingests and parses unstructured data into structured data optimized for GenAI applications.
 - [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision model based PDF chunking.
-- [lumina-ai-inc/PaddleOCR](https://github.com/lumina-ai-inc/PaddleOCR) - Multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices).
+- [lumina-ai-inc/PaddleOCR](https://github.com/lumina-ai-inc/PaddleOCR) - Lightweight multilingual OCR toolkit supporting 80+ languages, built on PaddlePaddle.
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training.
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A comprehensive toolkit for high-quality PDF content extraction.
 - [smalot/pdfparser](https://github.com/smalot/pdfparser) - A standalone PHP library, provides various tools to extract data from a PDF file.
