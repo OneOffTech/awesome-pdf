@@ -34,7 +34,6 @@ Curating a simple and accessible categorization is a challenge. Classification i
 - **Parsers, OCR and extraction**. Services and libraries that are related to extract text, images or structured from PDFs
 - **Readers and viewers**. Applications or libraries that allow to showcase PDF in applications or on websites.
 - **Creation and production**. Libraries or services that reduce time to produce PDFs or allow transformation of existing PDFs
-- **Accessibility**. Accessibility and long term conservation
 - **Datasets**. PDF datasets to use for training of vision-based AI/ML models or to test applications dealing with PDF processing.
 
 

@@ -1,21 +1,15 @@
-# Awesome PDF [![](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome PDF [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of PDF libraries, services and datasets.
-
-A curated community driven list of PDF (Portable Document Format) libraries, services and datasets. Both open source and commercial services are included and accepted.
-
-When working with PDF files, you sometimes come across great services, libraries, or interesting tools that you want to remember. Here is our list.
-From parsers for extracting text, images, and tables, to automated PDF creation and processing, to accessibility and compliance. AI included!
+> Portable Document Format (PDF) is a file format for presenting documents independently of software, hardware, or operating systems.
 
 
 
 ## Contents
 
-- [Parsers, OCR and extraction](#parsers-ocr-and-extraction) - If you need to extract something from PDFs look here.
-- [Creation and production](#creation-and-production) - Need to produce PDF, here some of the cool libraries and services
-- [Readers and viewers](#readers-and-viewers) - Need to show PDF in your app or site, maybe here you can find something.
-- [Accessibility](#accessibility) - Ensuring accessibility and long term conservation is a hot topic, give it a look!
-- [Datasets](#datasets) - Entering the machine learning and artificial intelligence dimension. Maybe here you can find a dataset to train your new shiny model!
+- [Parsers, OCR and extraction](#parsers-ocr-and-extraction)
+- [Creation and production](#creation-and-production)
+- [Readers and viewers](#readers-and-viewers)
+- [Datasets](#datasets)
 
 ---
 
@@ -24,12 +18,12 @@ From parsers for extracting text, images, and tables, to automated PDF creation 
 - [Parxy](https://github.com/OneOffTech/parxy) - A PDF parsers gateway to use different parsers using a unified API.
 - [Docling](https://github.com/docling-project/docling/) - Simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem.
 - [SmolDocling](https://huggingface.co/spaces/ds4sd/SmolDocling-256M-Demo) - A multimodal Image-Text-to-Text model designed for efficient document conversion. It retains Docling's most popular features while ensuring full compatibility with Docling through seamless support for DoclingDocuments.
-- [Filimoa/open-parse](https://github.com/Filimoa/open-parse/) - Improved file parsing for LLM's.
+- [Filimoa/open-parse](https://github.com/Filimoa/open-parse/) - Improved file parsing for LLMs.
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages.
 - [UniModal4Reasoning/StructEqTable-Deploy](https://github.com/UniModal4Reasoning/StructEqTable-Deploy) - A High-efficiency Open-source Toolkit for Table-to-Latex Task.
 - [huridocs/pdf-document-layout-analysis](https://github.com/huridocs/pdf-document-layout-analysis) - A Docker-based service for analyzing PDF document layouts, enabling segmentation and classification of elements like text, titles, images, and tables.
 - [Reducto](https://reducto.ai/) - Document Ingestion API.
-- [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - OmniParse is a platform that ingests and parses any unstructured data into structured, actionable data optimized for GenAI (LLM) applications. Whether you are working with documents, tables, images, videos, audio files, or web pages, OmniParse prepares your data to be clean, structured, and ready for AI applications such as RAG, fine-tuning, and more.
+- [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - A platform that ingests and parses unstructured data into structured data optimized for GenAI applications.
 - [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision model based PDF chunking.
 - [lumina-ai-inc/PaddleOCR](https://github.com/lumina-ai-inc/PaddleOCR) - Multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices).
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training.
@@ -46,14 +40,15 @@ From parsers for extracting text, images, and tables, to automated PDF creation 
 - [shipsaas/docking](https://github.com/shipsaas/docking) - Shared-microservice that takes over the document templates management & render/export PDF.
 - [WeasyPrint](https://weasyprint.org/) - Generate PDF using html and CSS.
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - A content-preserving PDF document transformer.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - A locally hosted web-based PDF manipulation tool using Docker. It enables you to carry out various operations on PDF files, including splitting, merging, converting, reorganizing, adding images, rotating, compressing, and more. This locally hosted web application has evolved to encompass a comprehensive set of features, addressing all your PDF requirements.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - A locally hosted web-based PDF manipulation tool using Docker that supports splitting, merging, converting, reorganizing, compressing, and more.
 - [unjs/unpdf](https://github.com/unjs/unpdf) - Utilities to work with PDFs in Node.js, browser and workers.
 - [PdfRest](https://pdfrest.com/) - PDF Api to create, shrink and compress.
 - [Gotenberg](https://gotenberg.dev/) - A Docker-powered stateless API for creating PDF files from templates in various formats, e.g., html, markdown, word, excel.
 - [Smallpdf](https://smallpdf.com/) - Set of tools to extract and manipulate PDF content.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [Vexlio](https://vexlio.com/) - Tool to create diagrams and export in SVG or PDF.
-- [renamed.to](https://www.renamed.to) - AI-powered tool that rename files based on the content, accessible as a web app, command line, and for integration within your application.
+- [renamed.to](https://www.renamed.to) - AI-powered tool that renames files based on the content, accessible as a web app, command line, and for integration within your application.
+- [veraPDF](https://openpreservation.org/tools/verapdf/) - Verify compliance with PDF/A and PDF/UA specification (via Open Preservation Foundation).
 
 ## Readers and viewers
 
@@ -62,9 +57,6 @@ From parsers for extracting text, images, and tables, to automated PDF creation 
 - [Sioyek](https://sioyek.info/) - PDF viewer with a focus on technical books and research papers (desktop app).
 
 
-## Accessibility
-
-- [veraPDF](https://openpreservation.org/tools/verapdf/) - Verify compliance with PDF/A and PDF/UA specification (via Open Preservation Foundation).
 
 
 ## Datasets
@@ -73,10 +65,8 @@ From parsers for extracting text, images, and tables, to automated PDF creation 
 - [pdf-association/pdf-corpora](https://github.com/pdf-association/pdf-corpora) - An index of PDF-centric corpora.
 - [DS4SD/DocLayNet: DocLayNet](https://github.com/DS4SD/DocLayNet) - A large human-annotated dataset for document-layout analysis.
 - [gipplab/pdf-benchmark](https://github.com/gipplab/pdf-benchmark) - A benchmark of PDF information extraction tools using a multi-task and multi-domain evaluation framework for academic documents.
-- [DocBank Dataset](https://github.com/doc-analysis/DocBank) - DocBank is a new large-scale dataset that is constructed using a weak supervision approach. It enables models to integrate both the textual and layout information for downstream tasks. The current DocBank dataset totally includes 500K document pages, where 400K for training, 50K for validation and 50K for testing.
+- [DocBank Dataset](https://github.com/doc-analysis/DocBank) - A large-scale dataset built with weak supervision, enabling models to integrate textual and layout information for downstream tasks.
 
 ## Contributing
 
-A community-driven list is, at its core, driven by contributions. If you stumble upon a great service or library, or find mistakes, please get involved by starting a discussion or suggesting a change via a pull request.
-
-Please see [Contributing](./contributing.md) for details.
+See [Contributing](./contributing.md) for details.
