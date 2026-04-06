@@ -33,6 +33,7 @@
 - [PyMuPDF4LLM](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/) - Aimed to make it easier to extract PDF content in the format you need for LLM & RAG environments. It supports Markdown extraction as well as LlamaIndex document output.
 - [CatchTheTornado/pdf-extract-api](https://github.com/CatchTheTornado/pdf-extract-api) - Document (PDF) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSON or Markdown.
 - [climatepolicyradar/navigator-document-parser](https://github.com/climatepolicyradar/navigator-document-parser) - Parsing PDFs and websites containing laws and policies.
+- [Iteration Layer](https://iterationlayer.com) - Document extraction API that extracts structured data from PDFs, images, DOCX, and text files using AI.
 
 
 ## Creation and production
