@@ -45,6 +45,7 @@
 - [PdfRest](https://pdfrest.com/) - PDF Api to create, shrink and compress.
 - [Gotenberg](https://gotenberg.dev/) - A Docker-powered stateless API for creating PDF files from templates in various formats, e.g., html, markdown, word, excel.
 - [Smallpdf](https://smallpdf.com/) - Set of tools to extract and manipulate PDF content.
+- [PDFKit](https://pdfkit.davrapps.dev/) - Free browser-based PDF toolkit — merge, split, compress, rotate, convert, add page numbers, watermark, password protect. No signup, runs fully client-side.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [Vexlio](https://vexlio.com/) - Tool to create diagrams and export in SVG or PDF.
 - [renamed.to](https://www.renamed.to) - AI-powered tool that renames files based on the content, accessible as a web app, command line, and for integration within your application.
