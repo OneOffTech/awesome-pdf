@@ -34,6 +34,7 @@
 - [CatchTheTornado/pdf-extract-api](https://github.com/CatchTheTornado/pdf-extract-api) - Document (PDF) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSON or Markdown.
 - [climatepolicyradar/navigator-document-parser](https://github.com/climatepolicyradar/navigator-document-parser) - Parsing PDFs and websites containing laws and policies.
 - [Iteration Layer](https://iterationlayer.com) - An AI-powered API that extracts structured data from PDFs, images, DOCX, and text files.
+- [pdfmux](https://github.com/NameetP/pdfmux) - Python PDF-to-Markdown extraction library with per-page confidence scoring and self-healing fallback. Re-extracts low-confidence pages automatically; built for RAG pipelines. Built-in MCP server, LangChain + LlamaIndex loaders. #2 on opendataloader-bench. MIT licensed.
 
 
 ## Creation and production
