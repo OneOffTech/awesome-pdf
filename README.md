@@ -56,6 +56,7 @@
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
 - [agentcooper/react-pdf-highlighter](https://github.com/agentcooper/react-pdf-highlighter) - Set of React components for PDF annotation.
 - [Sioyek](https://sioyek.info/) - PDF viewer with a focus on technical books and research papers (desktop app).
+- [PDF Dark](https://pdfdark.org) - Convert any PDF to dark mode, fully in the browser. Open-source and client-side only — no upload required.
 
 
 
