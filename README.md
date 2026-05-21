@@ -51,6 +51,7 @@
 - [renamed.to](https://www.renamed.to) - AI-powered tool that renames files based on the content, accessible as a web app, command line, and for integration within your application.
 - [veraPDF](https://openpreservation.org/tools/verapdf/) - Verify compliance with PDF/A and PDF/UA specification (via Open Preservation Foundation).
 
+- [toolkit.bot/pdf2epub](https://toolkit.bot/pdf2epub) - Converts PDF to reflowable EPUB3 with EPUB Accessibility 1.1 and WCAG 2.2 AA compliance. Free web service with REST API.
 ## Readers and viewers
 
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
