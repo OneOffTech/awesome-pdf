@@ -42,6 +42,7 @@
 - [WeasyPrint](https://weasyprint.org/) - Generate PDF using html and CSS.
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - A content-preserving PDF document transformer.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - A locally hosted web-based PDF manipulation tool using Docker that supports splitting, merging, converting, reorganizing, compressing, and more.
+- [PDF Toolbox](https://pdftoolbox-three.vercel.app) - A free browser-based PDF manipulation tool — compress, merge, split, JPG to PDF, PDF to JPG, and unlock PDFs. All processing happens locally in the browser, no file uploads or server-side processing.
 - [unjs/unpdf](https://github.com/unjs/unpdf) - Utilities to work with PDFs in Node.js, browser and workers.
 - [PdfRest](https://pdfrest.com/) - PDF Api to create, shrink and compress.
 - [Gotenberg](https://gotenberg.dev/) - A Docker-powered stateless API for creating PDF files from templates in various formats, e.g., html, markdown, word, excel.
