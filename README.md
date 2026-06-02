@@ -34,6 +34,7 @@
 - [CatchTheTornado/pdf-extract-api](https://github.com/CatchTheTornado/pdf-extract-api) - Document (PDF) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSON or Markdown.
 - [climatepolicyradar/navigator-document-parser](https://github.com/climatepolicyradar/navigator-document-parser) - Parsing PDFs and websites containing laws and policies.
 - [Iteration Layer](https://iterationlayer.com) - An AI-powered API that extracts structured data from PDFs, images, DOCX, and text files.
+- [LiteParse](https://github.com/run-llama/liteparse) - An open-source standalone PDF parser that provides spatial text parsing with bounding boxes, without proprietary LLM features or cloud dependencies.
 
 
 ## Creation and production
@@ -50,6 +51,7 @@
 - [Vexlio](https://vexlio.com/) - Tool to create diagrams and export in SVG or PDF.
 - [renamed.to](https://www.renamed.to) - AI-powered tool that renames files based on the content, accessible as a web app, command line, and for integration within your application.
 - [veraPDF](https://openpreservation.org/tools/verapdf/) - Verify compliance with PDF/A and PDF/UA specification (via Open Preservation Foundation).
+- [BentoPDF](https://www.bentopdf.com/) - A privacy-first, self-hostable PDF toolkit that manipulates, edits, merges and processes files entirely in the browser, with no server-side processing.
 
 ## Readers and viewers
 
