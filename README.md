@@ -35,6 +35,7 @@
 - [climatepolicyradar/navigator-document-parser](https://github.com/climatepolicyradar/navigator-document-parser) - Parsing PDFs and websites containing laws and policies.
 - [Iteration Layer](https://iterationlayer.com) - An AI-powered API that extracts structured data from PDFs, images, DOCX, and text files.
 - [LiteParse](https://github.com/run-llama/liteparse) - An open-source standalone PDF parser that provides spatial text parsing with bounding boxes, without proprietary LLM features or cloud dependencies.
+- [pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - Fast Rust PDF library and CLI for text and image extraction and markdown conversion, with bindings for Python, Go, JS, .NET, Java, PHP, Ruby, and WASM.
 
 
 ## Creation and production
