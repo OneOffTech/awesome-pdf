@@ -34,7 +34,7 @@
 - [CatchTheTornado/pdf-extract-api](https://github.com/CatchTheTornado/pdf-extract-api) - Document (PDF) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSON or Markdown.
 - [climatepolicyradar/navigator-document-parser](https://github.com/climatepolicyradar/navigator-document-parser) - Parsing PDFs and websites containing laws and policies.
 - [Iteration Layer](https://iterationlayer.com) - An AI-powered API that extracts structured data from PDFs, images, DOCX, and text files.
-- [pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - A fast Rust PDF library for text and image extraction, markdown conversion, and structured extraction, with bindings for Python, Go, JS/TS, .NET, Java, PHP, Ruby, and WebAssembly, plus a CLI and MCP server.
+- [pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - Fast Rust PDF library and CLI for text and image extraction and markdown conversion, with bindings for Python, Go, JS, .NET, Java, PHP, Ruby, and WASM.
 
 
 ## Creation and production
