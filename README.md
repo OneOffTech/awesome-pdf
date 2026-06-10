@@ -50,6 +50,7 @@
 - [Vexlio](https://vexlio.com/) - Tool to create diagrams and export in SVG or PDF.
 - [renamed.to](https://www.renamed.to) - AI-powered tool that renames files based on the content, accessible as a web app, command line, and for integration within your application.
 - [veraPDF](https://openpreservation.org/tools/verapdf/) - Verify compliance with PDF/A and PDF/UA specification (via Open Preservation Foundation).
+- [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Free, privacy-first online PDF tool suite — merge, split, compress, convert, OCR, e-sign. All processing is local (no file uploads).
 
 ## Readers and viewers
 
