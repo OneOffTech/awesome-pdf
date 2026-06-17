@@ -10,6 +10,7 @@
 - [Creation and production](#creation-and-production)
 - [Readers and viewers](#readers-and-viewers)
 - [Datasets](#datasets)
+- [Security and integrity](#security-and-integrity)
 
 ---
 
@@ -70,6 +71,10 @@
 - [DS4SD/DocLayNet: DocLayNet](https://github.com/DS4SD/DocLayNet) - A large human-annotated dataset for document-layout analysis.
 - [gipplab/pdf-benchmark](https://github.com/gipplab/pdf-benchmark) - A benchmark of PDF information extraction tools using a multi-task and multi-domain evaluation framework for academic documents.
 - [DocBank Dataset](https://github.com/doc-analysis/DocBank) - A large-scale dataset built with weak supervision, enabling models to integrate textual and layout information for downstream tasks.
+
+## Security and integrity
+
+- [HTPBE](https://htpbe.tech/api) - API + web tool that detects whether a PDF was modified after creation by analysing the structural layer (metadata, xref tables, incremental updates, signatures).
 
 ## Contributing
 
