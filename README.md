@@ -47,6 +47,7 @@
 - [unjs/unpdf](https://github.com/unjs/unpdf) - Utilities to work with PDFs in Node.js, browser and workers.
 - [PdfRest](https://pdfrest.com/) - PDF Api to create, shrink and compress.
 - [Gotenberg](https://gotenberg.dev/) - A Docker-powered stateless API for creating PDF files from templates in various formats, e.g., html, markdown, word, excel.
+- [PolyDoc](https://polydoc.tech) - REST API to convert HTML or URLs into PDFs and screenshots, with templates, webhooks, PDF/A, and Factur-X/ZUGFeRD e-invoicing.
 - [Smallpdf](https://smallpdf.com/) - Set of tools to extract and manipulate PDF content.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [Vexlio](https://vexlio.com/) - Tool to create diagrams and export in SVG or PDF.
