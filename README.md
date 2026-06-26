@@ -53,6 +53,7 @@
 - [renamed.to](https://www.renamed.to) - AI-powered tool that renames files based on the content, accessible as a web app, command line, and for integration within your application.
 - [veraPDF](https://openpreservation.org/tools/verapdf/) - Verify compliance with PDF/A and PDF/UA specification (via Open Preservation Foundation).
 - [BentoPDF](https://www.bentopdf.com/) - A privacy-first, self-hostable PDF toolkit that manipulates, edits, merges and processes files entirely in the browser, with no server-side processing.
+- [PDF.dk](https://pdf.dk/en/tools/outline) - Free online tools to convert PDF text/fonts to outlines (curves), embed fonts, and make print-ready, PDF/UA-accessible files. No signup.
 
 ## Readers and viewers
 
