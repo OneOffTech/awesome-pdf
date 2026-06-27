@@ -53,6 +53,7 @@
 - [Vexlio](https://vexlio.com/) - Tool to create diagrams and export in SVG or PDF.
 - [renamed.to](https://www.renamed.to) - AI-powered tool that renames files based on the content, accessible as a web app, command line, and for integration within your application.
 - [BentoPDF](https://www.bentopdf.com/) - A privacy-first, self-hostable PDF toolkit that manipulates, edits, merges and processes files entirely in the browser, with no server-side processing.
+- [Moguan PDF](https://moguanpdf.com) - A privacy-first PDF toolkit that compresses, merges, splits, rotates, watermarks, encrypts and OCRs files entirely in the browser via WebAssembly and pdf.js, with no upload, signup or installation.
 
 ## Readers and viewers
 
