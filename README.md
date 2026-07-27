@@ -38,6 +38,7 @@
 - [LiteParse](https://github.com/run-llama/liteparse) - An open-source standalone PDF parser that provides spatial text parsing with bounding boxes, without proprietary LLM features or cloud dependencies.
 - [PDF Oxide](https://github.com/yfedoseev/pdf_oxide) - Fast Rust PDF library and CLI for text and image extraction and markdown conversion, with bindings for Python, Go, JS, .NET, Java, PHP, Ruby, and WASM.
 - [pdfmux](https://github.com/NameetP/pdfmux) - Python PDF-to-Markdown extraction library with per-page confidence scoring and self-healing fallback.
+- [Nutilz OCR](https://nutilz.com/ocr) - Free browser-based OCR tool that extracts text from images and scanned PDFs, no signup required.
 
 
 ## Creation and production
