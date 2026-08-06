@@ -53,6 +53,7 @@
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [Vexlio](https://vexlio.com/) - Tool to create diagrams and export in SVG or PDF.
 - [renamed.to](https://www.renamed.to) - AI-powered tool that renames files based on the content, accessible as a web app, command line, and for integration within your application.
+- [PDF Mavericks](https://www.pdfmavericks.com) - Browser-local PDF toolkit to merge, split, compress, rotate, sign, unlock and convert PDFs, processed client-side in JavaScript and WebAssembly with no upload.
 - [BentoPDF](https://www.bentopdf.com/) - A privacy-first, self-hostable PDF toolkit that manipulates, edits, merges and processes files entirely in the browser, with no server-side processing.
 - [PDF 2 EPUB](https://github.com/bernardotorres/pdf2epub) - Converts PDF to reflowable EPUB 3 compliant with EPUB Accessibility 1.1 and WCAG 2.2 AA.
 
