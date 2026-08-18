@@ -55,6 +55,7 @@
 - [renamed.to](https://www.renamed.to) - AI-powered tool that renames files based on the content, accessible as a web app, command line, and for integration within your application.
 - [BentoPDF](https://www.bentopdf.com/) - A privacy-first, self-hostable PDF toolkit that manipulates, edits, merges and processes files entirely in the browser, with no server-side processing.
 - [PDF 2 EPUB](https://github.com/bernardotorres/pdf2epub) - Converts PDF to reflowable EPUB 3 compliant with EPUB Accessibility 1.1 and WCAG 2.2 AA.
+- [In-Tab Tools](https://intabtools.com/pdf) - Browser-based toolkit that converts PDF to Markdown, converts Markdown to PDF, and removes PDF metadata, entirely client-side with no file uploads. Scanned PDFs without a text layer cannot be converted to text.
 
 ## Readers and viewers
 
