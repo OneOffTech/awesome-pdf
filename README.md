@@ -67,6 +67,7 @@
 
 - [veraPDF](https://openpreservation.org/tools/verapdf/) - Verify compliance with PDF/A and PDF/UA specification (via Open Preservation Foundation).
 - [HTPBE?](https://htpbe.tech/) - A forensic tool that analyses the structural layer of a PDF to detect whether it has been modified since creation.
+- [Tamperlens](https://tamperlens.com/) - Reads the structural layer of a PDF and reports tampering signals with the evidence behind each one — revisions appended after the original save, contradictory metadata, producer fingerprints, text still live under redaction boxes, edits made after a digital signature — as a free browser checker and a REST API.
 - [ReflowPDF](https://reflowpdf.com/) - Browser-based PDF editor with structural content reflow, tagged PDF/UA and PDF/A exports validated by veraPDF.
 
 ## Datasets
