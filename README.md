@@ -61,6 +61,7 @@
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
 - [agentcooper/react-pdf-highlighter](https://github.com/agentcooper/react-pdf-highlighter) - Set of React components for PDF annotation.
 - [Sioyek](https://sioyek.info/) - PDF viewer with a focus on technical books and research papers (desktop app).
+- [Inko](https://github.com/sinabin/inko-sdk) - Self-hosted PDF annotation SDK that returns review state as a separate value for host-managed storage.
 
 
 ## Validation and compliance
