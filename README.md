@@ -47,6 +47,7 @@
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - A content-preserving PDF document transformer.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - A locally hosted web-based PDF manipulation tool using Docker that supports splitting, merging, converting, reorganizing, compressing, and more.
 - [unjs/unpdf](https://github.com/unjs/unpdf) - Utilities to work with PDFs in Node.js, browser and workers.
+- [AlonDrilich/pdf-view-coords](https://github.com/AlonDrilich/pdf-view-coords) - Draw on PDF pages with pdf-lib in the coordinates a viewer shows, correct on rotated or cropped pages.
 - [PdfRest](https://pdfrest.com/) - PDF Api to create, shrink and compress.
 - [Gotenberg](https://gotenberg.dev/) - A Docker-powered stateless API for creating PDF files from templates in various formats, e.g., html, markdown, word, excel.
 - [Smallpdf](https://smallpdf.com/) - Set of tools to extract and manipulate PDF content.
