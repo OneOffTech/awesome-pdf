@@ -40,6 +40,9 @@
 - [pdfmux](https://github.com/NameetP/pdfmux) - Python PDF-to-Markdown extraction library with per-page confidence scoring and self-healing fallback.
 
 
+- [pdf-table-pull-lite](https://github.com/tidybytetools/pdf-table-pull-lite) - Free local Python CLI and MCP server that pulls tables from text PDFs into CSV.
+- [doc2md-lite](https://github.com/tidybytetools/doc2md-lite) - Free local Python CLI and MCP server that turns text PDFs and HTML into clean Markdown with real tables.
+
 ## Creation and production
 
 - [shipsaas/docking](https://github.com/shipsaas/docking) - Shared-microservice that takes over the document templates management & render/export PDF.
