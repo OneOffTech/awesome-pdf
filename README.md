@@ -40,6 +40,8 @@
 - [pdfmux](https://github.com/NameetP/pdfmux) - Python PDF-to-Markdown extraction library with per-page confidence scoring and self-healing fallback.
 
 
+- [JustMarkdown](https://justmarkdown.com/pdf-to-markdown) - Browser and hosted PDF-to-Markdown conversion with a free text-layer path, on-device scanned-page OCR, and an optional structured OCR API.
+
 ## Creation and production
 
 - [shipsaas/docking](https://github.com/shipsaas/docking) - Shared-microservice that takes over the document templates management & render/export PDF.
